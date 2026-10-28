@@ -1,0 +1,5 @@
+/* Único CSS próprio do projeto: apenas variáveis de cor (requisito do desafio). */
+:root {
+  --bs-body-bg: #f4f6fb;
+  --bs-body-bg-rgb: 244, 246, 251;
+}
